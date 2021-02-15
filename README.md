@@ -18,8 +18,8 @@ A very short command line interface for encoding and decoding base64 messages.
 
 # Setup 
 
-- This code runs using Pyperclip for copying the output on paperclip.
-- Depending on the OS, it would use pyperclip's backend dependencies.
+- This code runs using Pyperclip for copying the output on clipboard.
+- Depending on the OS, it would use pyperclip's backend dependencies. For linux, it uses x-clip.
 
 ## Installation
 
